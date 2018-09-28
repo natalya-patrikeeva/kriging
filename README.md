@@ -2,6 +2,8 @@
 
 Install R (I recommend the new version 3.5.1) from [here](https://cloud.r-project.org/):
 
+Install R kernel for Jupyter notebook.
+
 After R is installed, launch R from terminal by typing `R`:
 
 ```R
